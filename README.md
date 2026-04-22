@@ -196,23 +196,8 @@ Real (Probability: 0.91)
 
 ```
 
-Fake-Review-Detection/
-│
-├── dataset/
-│   └── reviews.csv
-│
-├── models/
-│   └── model.pkl
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── feature_extraction.py
-│   ├── train_model.py
-│   ├── predict.py
-│
-├── main.py
-├── requirements.txt
-└── README.md
+<img width="338" height="435" alt="{8CB86153-51A2-4306-A959-861FB53A84EC}" src="https://github.com/user-attachments/assets/183209a7-06ba-4aa5-863e-e25ba4a5ab1c" />
+
 
 ```
 
