@@ -124,13 +124,13 @@ TF-IDF = TF × IDF
 
 ### Example:
 | Actual | Predicted | Result |
-|--------|----------|--------|
-| Fake   | Fake     |  Correct |
-| Real   | Fake     |  Wrong |
+|--------|----------|---------|
+| Fake   | Fake     |  Correct|
+| Real   | Fake     |   Wrong |
 
 ---
 
-## 🔎 9. Prediction Phase
+## 9. Prediction Phase
 
 The trained model predicts whether a new review is real or fake.
 
@@ -218,7 +218,7 @@ Fake-Review-Detection/
 
 ---
 
-## 🚀 13. How to Run the Project
+##  13. How to Run the Project
 
 ### Step 1: Clone Repository
 ```
