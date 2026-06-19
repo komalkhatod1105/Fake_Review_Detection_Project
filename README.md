@@ -305,4 +305,3 @@ This project demonstrates how NLP and machine learning can be used to detect fak
 
 ---
 
-## Project maintained by Komal Khatod
