@@ -214,7 +214,7 @@ Real (Probability: 0.91)
 ### Step 1: Clone Repository
 ```
 
-git clone [https://github.com/your-username/fake-review-detection.git](https://github.com/your-username/fake-review-detection.git)
+git clone [https://github.com/komalkhatod1105/fake-review-detection.git](https://github.com/komalkhatod1105/fake-review-detection.git)
 
 ```
 
@@ -231,6 +231,53 @@ pip install -r requirements.txt
 python main.py
 
 ```
+## 📦 Installation
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/komalkhatod1105/Fake_Review_Detection_Project.git
+cd Fake_Review_Detection_Project
+```
+
+### 2️⃣ Create Virtual Environment (Recommended)
+
+#### Windows
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+#### Linux / macOS
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+### 3️⃣ Install Required Libraries
+
+```bash
+pip install -r requirements.txt
+```
+
+If `requirements.txt` is not available, install manually:
+
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn textblob nltk joblib
+```
+
+### 4️⃣ Download TextBlob/NLTK Resources
+
+```bash
+python -m textblob.download_corpora
+```
+
+### 5️⃣ Run the Project
+
+```bash
+python train.py
+```
+
 
 ---
 
