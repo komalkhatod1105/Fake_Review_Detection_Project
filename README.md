@@ -1,6 +1,12 @@
-
-```markdown
 #  Fake Review Detection using NLP & Deep Learning
+
+Detecting fake and genuine reviews using **Natural Language Processing (NLP)** and **Machine Learning** to improve trust and reliability in online platforms.
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?logo=scikitlearn)
+![NLTK](https://img.shields.io/badge/NLTK-NLP-green)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?logo=tensorflow)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
 
@@ -252,4 +258,4 @@ This project demonstrates how NLP and machine learning can be used to detect fak
 
 ---
 
-
+## Project maintained by Komal Khatod
