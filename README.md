@@ -302,6 +302,7 @@ python train.py
 ##  16. Conclusion
 
 This project demonstrates how NLP and machine learning can be used to detect fake reviews effectively. It improves reliability in e-commerce platforms by filtering out spam reviews and helping users make better decisions.
+Co-authored-by: Second Account Name <komal1105khatod@gmail.com>
 
 ---
 
